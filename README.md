@@ -1,13 +1,13 @@
-API RESTful Java MongoDB
+mts-crud-api-restfull
 # Como executar a aplicação
 Certifique-se de ter o Spring Tool Suite instalado , assim como o Git.
 ```
-git clone https://github.com/michaeltrindade/Java-MongoDB
+git clone https://github.com/michaeltrindade/mts-crud-api-restfull
 
 # Importando o projeto no STS
-No STS aberto, importe o projeto como projeto Maven, File --> Import --> Maven --> Projeto Maven Existente
+No STS aberto, importe o projeto como projeto Maven, File --> Import --> Maven --> Projeto Maven Existente -->
 ```
-Acesse http://localhost:8080/api/clientes
+Acesse http://localhost:8080/api/pessoas
 Utilize o usuário "user" e a senha que é impressa no terminal do STS ao executar a aplicação para autenticar.
 
 # APIs endpoints
