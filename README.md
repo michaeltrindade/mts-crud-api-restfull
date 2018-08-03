@@ -4,7 +4,7 @@ Certifique-se de ter o Spring Tool Suite instalado , assim como o Git.
 ```
 git clone https://github.com/michaeltrindade/Java-MongoDB
 
-### Importando o projeto no STS
+# Importando o projeto no STS
 No STS aberto, importe o projeto como projeto Maven, File --> Import --> Maven --> Projeto Maven Existente
 ```
 Acesse http://localhost:8080/api/clientes
